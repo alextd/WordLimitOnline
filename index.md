@@ -1,3 +1,7 @@
+[Here's the Limit Card](LimitCard)
+
+[Here's the Word Card](WordCard)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alextd/WordLimitOnline/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
