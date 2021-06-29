@@ -7,7 +7,6 @@ Here is your Limit:
 <button id="btnClick">New Limit</button>
 <script>
 var limits = ["1-4", "5-6", "7+", "Adj/Adv", "Noun", "Verb", "AEIOUWY", "BP", "CSXZ", "FGHJKQV", "LRMN", "TD"]
-
 $('#btnClick').on('click',function(){
 document.getElementById("limit").innerHTML = limits[Math.floor(Math.random() * limits.length)];
 });
